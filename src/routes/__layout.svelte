@@ -1,7 +1,8 @@
-<script>
-	import Navigation from '$components/navigation.svelte';
+<script lang="ts">
+	import Navigation from '$components/Navigation.svelte';
 	import '../app.css';
 </script>
 
-<Navigation />
+<html data-theme="dracula" lang="html" />
+<Navigation title="Hello from layout" />
 <slot />

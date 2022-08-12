@@ -1,5 +1,5 @@
 <script>
-	import Navigation from '$components/navigation.svelte';
+	import Navigation from '$components/Navigation.svelte';
 </script>
 
 <h1>Not Logged In</h1>
